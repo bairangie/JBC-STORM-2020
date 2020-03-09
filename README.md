@@ -1,8 +1,9 @@
 # JBC-STORM-2020
-STORM localization files, Clus-DoC output, and scripts
+STORM localization files, and scripts to extract ClusDoC results.
 
-Data is found in the ___________ directory
+Data is found in the two-color STORM and three-color STORM directories.
 
+Must run Clus-DoC (https://github.com/PRNicovich/ClusDoC) on the data files to generate the output that the scripts work on. Draw a square ROI around cells for 5LO/cPLA2, or a polygonal ROI around the nuclear envelope shown by FLAP for pairs with FLAP.
 
 Scripts (MATLAB 2018a) used to extract the data we used to generate figures is found in the Scripts directory.
 
