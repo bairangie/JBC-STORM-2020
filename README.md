@@ -1,6 +1,8 @@
 # JBC-STORM-2020
 STORM localization files, and scripts to extract ClusDoC results.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3701524.svg)](https://doi.org/10.5281/zenodo.3701524)
+
 Data is found in the two-color STORM and three-color STORM directories.
 
 Must run Clus-DoC (https://github.com/PRNicovich/ClusDoC) on the data files to generate the output that the scripts work on. Draw a square ROI around cells for 5LO/cPLA2, or a polygonal ROI around the nuclear envelope shown by FLAP for pairs with FLAP.
